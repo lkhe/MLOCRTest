@@ -5,12 +5,12 @@ plugins {
 }
 
 android {
-    compileSdk 32
+    compileSdkVersion 29
 
     defaultConfig {
         applicationId "com.example.mltext"
-        minSdk 24
-        targetSdk 32
+        minSdkVersion 24
+        targetSdkVersion 29
         versionCode 1
         versionName "1.0"
 
